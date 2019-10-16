@@ -1,0 +1,698 @@
+[
+  {
+    "columns": [
+      [
+        405,
+        1005
+      ],
+      [
+        53,
+        359
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\0\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-0_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\0\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-0.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\0\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-0_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        78,
+        493
+      ],
+      [
+        525,
+        892
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\1\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-1_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\1\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-1.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\1\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-1_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        88,
+        484
+      ],
+      [
+        88,
+        484
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\2\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-2_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\2\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-2.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\2\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-2_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        96.0,
+        1143
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\3\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-3_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\3\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-3.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\3\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-3_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        102.0,
+        1044
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\4\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-4_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\4\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-4.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\4\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-4_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        161.0,
+        1105
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\5\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-5_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\5\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-5.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\5\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-5_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        145.0,
+        1086
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\6\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-6_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\6\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-6.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\6\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-6_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        197,
+        896
+      ],
+      [
+        436,
+        1158
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\7\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-7_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\7\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-7.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\7\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-7_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        119,
+        813
+      ],
+      [
+        632,
+        1066
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\8\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-8_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\8\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-8.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\8\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-8_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        624,
+        1123
+      ],
+      [
+        90,
+        602
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\9\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-9_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\9\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-9.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\9\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-9_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        124,
+        828
+      ],
+      [
+        473,
+        1092
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\10\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-10_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\10\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-10.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\10\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-10_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        401,
+        1084
+      ],
+      [
+        116,
+        829
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\11\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-11_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\11\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-11.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\11\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-11_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        171.0,
+        1073
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\12\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-12_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\12\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-12.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\12\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-12_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        572,
+        1077
+      ],
+      [
+        131,
+        819
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\13\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-13_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\13\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-13.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\13\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-13_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        158.0,
+        1056
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\14\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-14_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\14\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-14.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\14\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-14_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        193.0,
+        1062
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\15\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-15_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\15\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-15.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\15\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-15_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        142,
+        849
+      ],
+      [
+        573,
+        1093
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\16\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-16_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\16\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-16.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\16\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-16_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        145.0,
+        1058
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\17\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-17_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\17\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-17.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\17\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-17_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        527,
+        1071
+      ],
+      [
+        133,
+        834
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\18\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-18_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\18\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-18.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\18\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-18_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        167.0,
+        1037
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\19\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-19_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\19\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-19.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\19\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-19_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        652,
+        1094
+      ],
+      [
+        146,
+        637
+      ],
+      [
+        652,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\20\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-20_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\20\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-20.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\20\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-20_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        582,
+        1072
+      ],
+      [
+        153,
+        832
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\21\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-21_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\21\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-21.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\21\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-21_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        150,
+        841
+      ],
+      [
+        383,
+        1084
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\22\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-22_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\22\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-22.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\22\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-22_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        125.0,
+        1037
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\23\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-23_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\23\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-23.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\23\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-23_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        184.0,
+        1096
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\24\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-24_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\24\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-24.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\24\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-24_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        127,
+        769
+      ],
+      [
+        618,
+        1072
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\25\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-25_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\25\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-25.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\25\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-25_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        170.0,
+        1091
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\26\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-26_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\26\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-26.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\26\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-26_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        615,
+        1049
+      ],
+      [
+        147,
+        808
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\27\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-27_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\27\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-27.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\27\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-27_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        170,
+        840
+      ],
+      [
+        424,
+        1077
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\28\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-28_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\28\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-28.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\28\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-28_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        174,
+        861
+      ],
+      [
+        430,
+        1098
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\29\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-29_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\29\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-29.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\29\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-29_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        607,
+        1045
+      ],
+      [
+        140,
+        807
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\30\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-30_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\30\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-30.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\30\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-30_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        125.0,
+        1050
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\31\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-31_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\31\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-31.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\31\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-31_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        143.0,
+        1059
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\32\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-32_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\32\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-32.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\32\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-32_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        146,
+        823
+      ],
+      [
+        375,
+        1090
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\33\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-33_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\33\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-33.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\33\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-33_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        610,
+        1049
+      ],
+      [
+        135,
+        805
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\34\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-34_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\34\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-34.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\34\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-34_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        629,
+        1069
+      ],
+      [
+        158,
+        610
+      ],
+      [
+        158,
+        553
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\35\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-35_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\35\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-35.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\35\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-35_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        141.0,
+        1074
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\36\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-36_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\36\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-36.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\36\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-36_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        135,
+        828
+      ],
+      [
+        633,
+        1086
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\37\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-37_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\37\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-37.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\37\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-37_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        147.0,
+        1045
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\38\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-38_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\38\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-38.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\38\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-38_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        412,
+        1078
+      ],
+      [
+        150,
+        845
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\39\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-39_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\39\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-39.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\39\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-39_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        158,
+        823
+      ],
+      [
+        680,
+        1068
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\40\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-40_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\40\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-40.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\40\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-40_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        670,
+        1078
+      ],
+      [
+        147,
+        829
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\41\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-41_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\41\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-41.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\41\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-41_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        121,
+        837
+      ],
+      [
+        595,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\42\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-42_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\42\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-42.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\42\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-42_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        142.0,
+        1102
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\43\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-43_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\43\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-43.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\43\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-43_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        167.0,
+        1114
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\44\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-44_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\44\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-44.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\44\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-44_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        400,
+        1092
+      ],
+      [
+        129,
+        835
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\45\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-45_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\45\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-45.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\45\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-45_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        437,
+        1101
+      ],
+      [
+        149,
+        833
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\46\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-46_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\46\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-46.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\46\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-46_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        143.0,
+        1047
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\47\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-47_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\47\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-47.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\47\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-47_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        174.0,
+        1053
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\48\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-48_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\48\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-48.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\48\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-48_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        175.0,
+        1047
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\49\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-49_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\49\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-49.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\49\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-49_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        206.0,
+        1082
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\50\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-50_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\50\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-50.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\50\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-50_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        174.0,
+        958
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\51\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-51_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\51\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-51.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2\\51\\NCDC Uganda Biology-5e5980fe0abe844fcf220de1ce9a5cc2-51_boxes.png"
+  }
+]

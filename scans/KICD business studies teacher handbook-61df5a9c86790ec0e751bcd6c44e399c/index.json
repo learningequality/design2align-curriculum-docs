@@ -1,0 +1,907 @@
+[
+  {
+    "columns": [
+      [
+        234.0,
+        665
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\0\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-0_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\0\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-0.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\0\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-0_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        745,
+        1107
+      ],
+      [
+        788,
+        1107
+      ],
+      [
+        745,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\1\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-1_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\1\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-1.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\1\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-1_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        83.0,
+        1112
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\2\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-2_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\2\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-2.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\2\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-2_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        87.0,
+        1106
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\3\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-3_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\3\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-3.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\3\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-3_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        100.0,
+        1116
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\4\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-4_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\4\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-4.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\4\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-4_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        683,
+        1106
+      ],
+      [
+        111,
+        514
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\5\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-5_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\5\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-5.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\5\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-5_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        131,
+        504
+      ],
+      [
+        683,
+        1098
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\6\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-6_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\6\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-6.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\6\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-6_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        116.0,
+        1099
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\7\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-7_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\7\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-7.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\7\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-7_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        701,
+        1063
+      ],
+      [
+        109,
+        541
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\8\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-8_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\8\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-8.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\8\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-8_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        117.0,
+        1104
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\9\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-9_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\9\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-9.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\9\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-9_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        671,
+        1093
+      ],
+      [
+        118,
+        532
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\10\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-10_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\10\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-10.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\10\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-10_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        121,
+        535
+      ],
+      [
+        681,
+        1104
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\11\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-11_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\11\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-11.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\11\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-11_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        119,
+        529
+      ],
+      [
+        684,
+        1098
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\12\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-12_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\12\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-12.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\12\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-12_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        117.0,
+        1090
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\13\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-13_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\13\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-13.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\13\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-13_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        124.0,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\14\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-14_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\14\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-14.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\14\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-14_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        114.0,
+        1105
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\15\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-15_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\15\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-15.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\15\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-15_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        114.0,
+        1095
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\16\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-16_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\16\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-16.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\16\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-16_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        73.0,
+        793
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\17\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-17_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\17\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-17.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\17\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-17_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        219.0,
+        811
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\18\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-18_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\18\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-18.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\18\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-18_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        110.0,
+        1092
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\19\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-19_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\19\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-19.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\19\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-19_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        291,
+        530
+      ],
+      [
+        738,
+        913
+      ],
+      [
+        117,
+        406
+      ],
+      [
+        117,
+        529
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\20\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-20_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\20\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-20.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\20\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-20_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        111,
+        533
+      ],
+      [
+        700,
+        1113
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\21\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-21_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\21\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-21.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\21\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-21_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        99,
+        514
+      ],
+      [
+        690,
+        1114
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\22\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-22_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\22\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-22.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\22\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-22_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        704,
+        1094
+      ],
+      [
+        106,
+        521
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\23\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-23_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\23\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-23.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\23\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-23_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        137.0,
+        1106
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\24\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-24_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\24\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-24.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\24\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-24_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        114.0,
+        1112
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\25\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-25_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\25\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-25.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\25\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-25_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        137,
+        535
+      ],
+      [
+        727,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\26\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-26_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\26\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-26.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\26\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-26_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        701,
+        1127
+      ],
+      [
+        128,
+        545
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\27\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-27_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\27\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-27.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\27\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-27_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        700,
+        1121
+      ],
+      [
+        97,
+        504
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\28\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-28_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\28\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-28.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\28\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-28_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        80.0,
+        1103
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\29\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-29_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\29\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-29.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\29\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-29_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        150,
+        531
+      ],
+      [
+        728,
+        1109
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\30\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-30_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\30\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-30.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\30\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-30_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        108.0,
+        1110
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\31\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-31_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\31\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-31.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\31\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-31_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        117.0,
+        1106
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\32\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-32_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\32\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-32.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\32\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-32_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        106.0,
+        1104
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\33\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-33_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\33\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-33.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\33\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-33_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        692,
+        1105
+      ],
+      [
+        125,
+        533
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\34\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-34_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\34\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-34.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\34\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-34_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        105,
+        524
+      ],
+      [
+        697,
+        1110
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\35\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-35_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\35\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-35.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\35\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-35_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        94.0,
+        1089
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\36\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-36_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\36\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-36.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\36\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-36_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        109.0,
+        1103
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\37\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-37_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\37\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-37.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\37\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-37_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        709,
+        1118
+      ],
+      [
+        105,
+        518
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\38\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-38_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\38\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-38.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\38\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-38_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        118.0,
+        1104
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\39\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-39_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\39\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-39.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\39\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-39_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        713,
+        1105
+      ],
+      [
+        113,
+        519
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\40\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-40_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\40\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-40.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\40\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-40_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        112.0,
+        1087
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\41\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-41_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\41\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-41.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\41\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-41_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        696,
+        1099
+      ],
+      [
+        130,
+        535
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\42\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-42_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\42\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-42.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\42\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-42_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        132.0,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\43\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-43_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\43\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-43.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\43\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-43_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        157.0,
+        1092
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\44\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-44_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\44\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-44.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\44\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-44_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        165,
+        528
+      ],
+      [
+        697,
+        1105
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\45\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-45_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\45\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-45.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\45\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-45_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        123.0,
+        1100
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\46\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-46_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\46\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-46.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\46\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-46_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        113.0,
+        1093
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\47\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-47_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\47\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-47.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\47\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-47_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        121.0,
+        1130
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\48\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-48_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\48\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-48.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\48\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-48_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        678,
+        1100
+      ],
+      [
+        119,
+        518
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\49\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-49_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\49\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-49.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\49\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-49_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        127.0,
+        1097
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\50\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-50_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\50\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-50.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\50\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-50_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        108.0,
+        1093
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\51\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-51_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\51\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-51.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\51\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-51_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        669,
+        1085
+      ],
+      [
+        114,
+        527
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\52\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-52_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\52\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-52.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\52\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-52_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        150.0,
+        1090
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\53\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-53_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\53\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-53.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\53\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-53_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        67.0,
+        1098
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\54\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-54_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\54\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-54.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\54\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-54_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        108,
+        517
+      ],
+      [
+        697,
+        1099
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\55\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-55_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\55\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-55.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\55\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-55_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        98.0,
+        1095
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\56\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-56_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\56\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-56.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\56\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-56_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        102.0,
+        1099
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\57\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-57_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\57\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-57.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\57\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-57_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        97.0,
+        1095
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\58\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-58_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\58\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-58.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\58\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-58_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        116.0,
+        1095
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\59\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-59_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\59\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-59.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\59\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-59_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        101,
+        515
+      ],
+      [
+        683,
+        1099
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\60\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-60_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\60\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-60.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\60\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-60_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        103,
+        511
+      ],
+      [
+        708,
+        1099
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\61\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-61_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\61\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-61.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\61\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-61_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        103.0,
+        1103
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\62\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-62_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\62\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-62.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\62\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-62_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        105.0,
+        1085
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\63\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-63_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\63\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-63.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\63\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-63_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        107,
+        510
+      ],
+      [
+        680,
+        1094
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\64\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-64_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\64\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-64.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\64\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-64_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        104.0,
+        1084
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\65\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-65_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\65\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-65.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\65\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-65_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        96,
+        512
+      ],
+      [
+        710,
+        1075
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\66\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-66_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\66\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-66.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\66\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-66_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        110.0,
+        1098
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\67\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-67_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\67\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-67.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\67\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-67_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        112.0,
+        1079
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\68\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-68_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\68\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-68.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\68\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-68_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        112.0,
+        1075
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\69\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-69_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\69\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-69.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\69\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-69_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        168.0,
+        1066
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\70\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-70_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\70\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-70.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c\\70\\KICD business studies teacher handbook-61df5a9c86790ec0e751bcd6c44e399c-70_boxes.png"
+  }
+]

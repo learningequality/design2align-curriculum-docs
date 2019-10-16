@@ -1,0 +1,46 @@
+[
+  {
+    "columns": [
+      [
+        106.0,
+        841
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\0\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-0_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\0\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-0.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\0\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-0_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        103.0,
+        841
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\1\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-1_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\1\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-1.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\1\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-1_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        103.0,
+        841
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\2\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-2_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\2\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-2.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\2\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-2_boxes.png"
+  },
+  {
+    "columns": [
+      [
+        129.0,
+        841
+      ]
+    ],
+    "file": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\3\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-3_ocr.json",
+    "image": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\3\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-3.png",
+    "boxes": "C:\\Users\\Jordan\\curriculum-scanner\\scans\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46\\3\\Chemistry textbook TOC E-9a0208cf0c5b5443e3b6c21a1d08fc46-3_boxes.png"
+  }
+]
